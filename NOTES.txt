@@ -1,0 +1,3 @@
+Not perfect but I cleaned it up a bit and the movement seems to work fine
+
+To change the 'Stats' on the Rotate/Move you have to click on the BPAC Components in the Editor to see/edit the variables
